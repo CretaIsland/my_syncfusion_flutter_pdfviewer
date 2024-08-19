@@ -6,7 +6,7 @@ import 'package:syncfusion_flutter_pdf/pdf.dart';
 
 import '../control/pdftextline.dart';
 import 'mobile_helper.dart'
-    if (dart.library.html) 'package:syncfusion_flutter_pdfviewer/src/common/web_helper.dart'
+    if (dart.library.html) 'package:my_syncfusion_flutter_pdfviewer/src/common/web_helper.dart'
     as helper;
 
 /// Indicates whether the current environment is running in Desktop

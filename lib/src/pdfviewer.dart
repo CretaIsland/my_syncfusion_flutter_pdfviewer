@@ -2,7 +2,7 @@
 /// It is built in the way that a large PDF document can be opened in
 /// minimal time and all their pages can be accessed spontaneously.
 ///
-/// To use, import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart'.
+/// To use, import 'package:my_syncfusion_flutter_pdfviewer/pdfviewer.dart'.
 ///
 /// {@youtube 560 315 https://www.youtube.com/watch?v=f1zEJZRdo7w}
 ///
